@@ -32,4 +32,4 @@ In case dependencies are missing or you have special cases, you can add dependen
 Please contact the tooling departement
 
 ## License
-[APSYS]
+[GPL-3.0]
