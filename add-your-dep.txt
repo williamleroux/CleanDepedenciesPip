@@ -1,0 +1,2 @@
+# if you have dependencies that are not detected by the scipt
+# you can add them here, they will be added to the requirements.txt

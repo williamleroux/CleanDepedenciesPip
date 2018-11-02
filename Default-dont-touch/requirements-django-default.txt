@@ -1,0 +1,13 @@
+#special case due to Django
+django_reversion==3.0.0
+django-coverage-plugin==1.6.0
+django-discover-runner==1.0
+django-ldapdb==1.0.0
+django-markdownx==2.0.23
+django-nose==1.4.5
+django-reversion==3.0.0
+django-role-permissions==2.2.0
+django-settings-export==1.2.1
+django-split-settings==0.3.0
+django-widget-tweaks==1.4.2
+django_auth_ldap==1.7.0
