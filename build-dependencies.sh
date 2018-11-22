@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir Copy-tmp-dont-touch
+
 find "$1"  -name "*.py" -not -path '*/venv/*' -print0 | while IFS= read -r -d '' path
 do
     base=$(basename --suffix=".txt"  "$path")
