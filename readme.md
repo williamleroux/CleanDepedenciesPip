@@ -10,7 +10,6 @@ Always check the result.
 ## Installation
 
 ### Requirements
-* Linux
 * Python 3 and up
 * pipreqs
 * Bash
