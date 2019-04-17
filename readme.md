@@ -27,8 +27,5 @@ Always check the result.
 By default we add Django package because it's being developed for django use.
 In case of missing dependencies or special cases to handle, you can add dependencies to "add-your-dep.txt" they will be added. 
 
-## Contributing
-Please contact the tooling departement
-
 ## License
 [GPL-3.0]
